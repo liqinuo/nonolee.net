@@ -8,4 +8,3 @@
 * LESS 语法
 * 响应式网站
 * CSS3 效果
-* animation 动画
